@@ -1,4 +1,4 @@
-package com.bigquery.demo;
+package com.jogi.book;
 
 import java.util.List;
 

@@ -1,5 +1,7 @@
-package com.bigquery.demo;
+package com.jogi.book;
 
+import com.jogi.book.Book;
+import com.jogi.book.IndexCreator;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
